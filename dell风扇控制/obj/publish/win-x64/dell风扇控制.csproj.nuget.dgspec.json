@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\dell风扇控制\\dell风扇控制.csproj": {}
+  },
+  "projects": {
+    "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosBzhLib\\DellSmbiosBzhLib.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosBzhLib\\DellSmbiosBzhLib.csproj",
+        "projectName": "DellSmbiosBzhLib",
+        "projectPath": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosBzhLib\\DellSmbiosBzhLib.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosSmiLib\\DellSmbiosSmiLib.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosSmiLib\\DellSmbiosSmiLib.csproj",
+        "projectName": "DellSmbiosSmiLib",
+        "projectPath": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosSmiLib\\DellSmbiosSmiLib.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\dell风扇控制\\dell风扇控制.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\dell风扇控制\\dell风扇控制.csproj",
+        "projectName": "dell风扇控制",
+        "projectPath": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\dell风扇控制\\dell风扇控制.csproj",
+        "packagesPath": "C:\\Users\\xibici\\.nuget\\packages\\",
+        "outputPath": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\dell风扇控制\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xibici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosBzhLib\\DellSmbiosBzhLib.csproj": {
+                "projectPath": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosBzhLib\\DellSmbiosBzhLib.csproj"
+              },
+              "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosSmiLib\\DellSmbiosSmiLib.csproj": {
+                "projectPath": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosSmiLib\\DellSmbiosSmiLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[5.0.9, 5.0.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[5.0.9, 5.0.9]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[5.0.9, 5.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

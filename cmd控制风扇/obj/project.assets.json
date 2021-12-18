@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "DellSmbiosBzhLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DellSmbiosBzhLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DellSmbiosBzhLib.dll": {}
+        }
+      },
+      "DellSmbiosSmiLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DellSmbiosSmiLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DellSmbiosSmiLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DellSmbiosBzhLib/1.0.0": {
+      "type": "project",
+      "path": "../DellSmbiosBzhLib/DellSmbiosBzhLib.csproj",
+      "msbuildProject": "../DellSmbiosBzhLib/DellSmbiosBzhLib.csproj"
+    },
+    "DellSmbiosSmiLib/1.0.0": {
+      "type": "project",
+      "path": "../DellSmbiosSmiLib/DellSmbiosSmiLib.csproj",
+      "msbuildProject": "../DellSmbiosSmiLib/DellSmbiosSmiLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DellSmbiosBzhLib >= 1.0.0",
+      "DellSmbiosSmiLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\xibici\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\cmd控制风扇\\cmd控制风扇.csproj",
+      "projectName": "cmd控制风扇",
+      "projectPath": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\cmd控制风扇\\cmd控制风扇.csproj",
+      "packagesPath": "C:\\Users\\xibici\\.nuget\\packages\\",
+      "outputPath": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\cmd控制风扇\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\xibici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosBzhLib\\DellSmbiosBzhLib.csproj": {
+              "projectPath": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosBzhLib\\DellSmbiosBzhLib.csproj"
+            },
+            "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosSmiLib\\DellSmbiosSmiLib.csproj": {
+              "projectPath": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\DellSmbiosSmiLib\\DellSmbiosSmiLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\bin\Release\DellSmbiosBzhLib.dll
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\bin\Release\DellSmbiosBzhLib.pdb
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\obj\Release\DellSmbiosBzhLib.csproj.AssemblyReference.cache
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\obj\Release\DellSmbiosBzhLib.csproj.CoreCompileInputs.cache
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\obj\Release\DellSmbiosBzhLib.dll
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\obj\Release\DellSmbiosBzhLib.pdb
+F:\cPro\c#Pro\dell风扇控制\dell风扇控制\DellSmbiosBzhLib\bin\Release\DellSmbiosBzhLib.dll
+F:\cPro\c#Pro\dell风扇控制\dell风扇控制\DellSmbiosBzhLib\bin\Release\DellSmbiosBzhLib.pdb
+F:\cPro\c#Pro\dell风扇控制\dell风扇控制\DellSmbiosBzhLib\obj\Release\DellSmbiosBzhLib.csproj.AssemblyReference.cache
+F:\cPro\c#Pro\dell风扇控制\dell风扇控制\DellSmbiosBzhLib\obj\Release\DellSmbiosBzhLib.csproj.CoreCompileInputs.cache
+F:\cPro\c#Pro\dell风扇控制\dell风扇控制\DellSmbiosBzhLib\obj\Release\DellSmbiosBzhLib.dll
+F:\cPro\c#Pro\dell风扇控制\dell风扇控制\DellSmbiosBzhLib\obj\Release\DellSmbiosBzhLib.pdb

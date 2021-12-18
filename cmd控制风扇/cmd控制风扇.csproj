@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DellSmbiosBzhLib\DellSmbiosBzhLib.csproj" />
+    <ProjectReference Include="..\DellSmbiosSmiLib\DellSmbiosSmiLib.csproj" />
+  </ItemGroup>
+
+</Project>

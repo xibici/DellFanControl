@@ -1,0 +1,9 @@
+C:\Users\xibici\OneDrive\桌面\发布1\dell风扇控制.exe
+C:\Users\xibici\OneDrive\桌面\发布1\dell风扇控制.dll
+C:\Users\xibici\OneDrive\桌面\发布1\dell风扇控制.deps.json
+C:\Users\xibici\OneDrive\桌面\发布1\dell风扇控制.runtimeconfig.json
+C:\Users\xibici\OneDrive\桌面\发布1\dell风扇控制.pdb
+C:\Users\xibici\OneDrive\桌面\发布1\DellSmbiosBzhLib.dll
+C:\Users\xibici\OneDrive\桌面\发布1\DellSmbiosSmiLib.dll
+C:\Users\xibici\OneDrive\桌面\发布1\DellSmbiosBzhLib.pdb
+C:\Users\xibici\OneDrive\桌面\发布1\DellSmbiosSmiLib.pdb

@@ -1,0 +1,13 @@
+D:\Program Files\dellFanControl_Me\dell风扇控制.pdb
+D:\Program Files\dellFanControl_Me\clrcompression.dll
+D:\Program Files\dellFanControl_Me\clrjit.dll
+D:\Program Files\dellFanControl_Me\coreclr.dll
+D:\Program Files\dellFanControl_Me\mscordaccore.dll
+D:\Program Files\dellFanControl_Me\D3DCompiler_47_cor3.dll
+D:\Program Files\dellFanControl_Me\PenImc_cor3.dll
+D:\Program Files\dellFanControl_Me\PresentationNative_cor3.dll
+D:\Program Files\dellFanControl_Me\vcruntime140_cor3.dll
+D:\Program Files\dellFanControl_Me\wpfgfx_cor3.dll
+D:\Program Files\dellFanControl_Me\DellSmbiosBzhLib.pdb
+D:\Program Files\dellFanControl_Me\DellSmbiosSmiLib.pdb
+D:\Program Files\dellFanControl_Me\dell风扇控制.exe

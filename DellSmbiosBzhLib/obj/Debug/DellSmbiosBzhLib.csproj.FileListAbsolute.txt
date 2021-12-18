@@ -1,0 +1,6 @@
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\bin\Debug\DellSmbiosBzhLib.dll
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\bin\Debug\DellSmbiosBzhLib.pdb
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\obj\Debug\DellSmbiosBzhLib.csproj.AssemblyReference.cache
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\obj\Debug\DellSmbiosBzhLib.csproj.CoreCompileInputs.cache
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\obj\Debug\DellSmbiosBzhLib.dll
+C:\Users\xibici\OneDrive\桌面\DellFanManagement-develop\DellSmbiosBzhLib\obj\Debug\DellSmbiosBzhLib.pdb

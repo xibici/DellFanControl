@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cmd控制风扇/1.0.0": {
+        "dependencies": {
+          "DellSmbiosBzhLib": "1.0.0",
+          "DellSmbiosSmiLib": "1.0.0"
+        },
+        "runtime": {
+          "cmd控制风扇.dll": {}
+        }
+      },
+      "DellSmbiosBzhLib/1.0.0": {
+        "runtime": {
+          "DellSmbiosBzhLib.dll": {}
+        }
+      },
+      "DellSmbiosSmiLib/1.0.0": {
+        "runtime": {
+          "DellSmbiosSmiLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cmd控制风扇/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DellSmbiosBzhLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DellSmbiosSmiLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

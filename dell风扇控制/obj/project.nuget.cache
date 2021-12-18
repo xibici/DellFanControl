@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5E8rVM90wiwnxWzjGiMz53k4Wnf5MoIbGM+ZIZlTh2KAp8MHD7gQScil7mBzI326eR1/Xu+0zGYxD4Ex45ImeA==",
+  "success": true,
+  "projectFilePath": "F:\\cPro\\c#Pro\\dell风扇控制\\dell风扇控制\\dell风扇控制\\dell风扇控制.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

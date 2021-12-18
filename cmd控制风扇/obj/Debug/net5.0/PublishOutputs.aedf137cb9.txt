@@ -1,0 +1,9 @@
+D:\Program Files\dellFanControl_Me\cmd控制风扇.exe
+D:\Program Files\dellFanControl_Me\cmd控制风扇.dll
+D:\Program Files\dellFanControl_Me\cmd控制风扇.deps.json
+D:\Program Files\dellFanControl_Me\cmd控制风扇.runtimeconfig.json
+D:\Program Files\dellFanControl_Me\cmd控制风扇.pdb
+D:\Program Files\dellFanControl_Me\DellSmbiosBzhLib.dll
+D:\Program Files\dellFanControl_Me\DellSmbiosSmiLib.dll
+D:\Program Files\dellFanControl_Me\DellSmbiosBzhLib.pdb
+D:\Program Files\dellFanControl_Me\DellSmbiosSmiLib.pdb

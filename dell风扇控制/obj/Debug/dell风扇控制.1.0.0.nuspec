@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>dell风扇控制</id>
+    <version>1.0.0</version>
+    <authors>dell风扇控制</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="DellSmbiosBzhLib" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="DellSmbiosSmiLib" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Collections" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="F:\cPro\c#Pro\dell风扇控制\dell风扇控制\dell风扇控制\bin\Debug\net5.0-windows\dell风扇控制.runtimeconfig.json" target="lib\net5.0-windows7.0\dell风扇控制.runtimeconfig.json" />
+    <file src="F:\cPro\c#Pro\dell风扇控制\dell风扇控制\dell风扇控制\bin\Debug\net5.0-windows\dell风扇控制.dll" target="lib\net5.0-windows7.0\dell风扇控制.dll" />
+  </files>
+</package>
