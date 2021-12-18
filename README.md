@@ -1,0 +1,2 @@
+# DellFanControl
+自用
